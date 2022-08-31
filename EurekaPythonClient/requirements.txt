@@ -1,0 +1,3 @@
+py_eureka_client
+fastapi
+uvicorn
